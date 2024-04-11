@@ -1,5 +1,7 @@
 ---
 timeline:
+  - '8:00 AM'
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -17,50 +19,36 @@ timeline:
   - '4:00 PM'
   - '4:30 PM'
   - '5:00 PM'
-  - '5:30 PM'
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
+      - name: Check-in
+        start: 12:00 PM
+        end: 1:00 PM
+      - name: Opening Session
+        start: 1:00 PM
         end: 2:00 PM
-        location: 271 Soda
+      - name: Data Collection
+        start: 2:00 PM
+        end: 3:00 PM
+      - name: Data Wrangling
+        start: 3:00 PM
+        end: 4:00 PM
   - name: Tuesday
   - name: Wednesday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Thursday
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Breakfast
+        start: 8:30 AM
+        end: 9:15 AM
+      - name: National Landscape
+        start: 9:15 AM
+        end: 10:00 AM
+      - name: Data Science in Industry
+        start: 10:00 AM
+        end: 11:00 AM
+      - name: Wrap-Up
+        start: 11:00 AM
+        end: 11:30 AM
 ---
