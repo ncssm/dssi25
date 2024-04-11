@@ -6,15 +6,13 @@ nav_exclude: false
 permalink: index.html
 ---
 
-# Thank You for an AMAZING 2023 Data Science Summer Institute
-
-![Group Photo](https://raw.githubusercontent.com/ncssm/dssi23/7e9f6fd14f44c5e5c15498204cfaafacc1f8901d/assets/images/BFH_0014_cropped.jpg)
+# NCSSM's 2024 Data Science Summer Institute
 
 {: .mb-2 }
-NCSSM-Morganton, July 10-14, 2023
+NCSSM-Morganton, July 8-12, 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
-[Jupyter Link](https://demohub.ncssm.edu){: .btn .btn-orange} [Sync Materials](https://demohub.ncssm.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fncssm%2Fdssi23-materials&urlpath=lab%2Ftree%2Fdssi23-materials%2F&branch=main){: .btn .btn-purple}
+[Jupyter Link](https://datahub.ncssm.edu){: .btn .btn-orange} [Sync Materials](https://datahub.ncssm.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fncssm%2Fdssi24-materials&urlpath=lab%2Ftree%2Fdssi24-materials%2F&branch=main){: .btn .btn-purple}
 
 ## Announcements
 
