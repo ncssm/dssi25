@@ -3,7 +3,7 @@ title: Tuesday
 ---
 
 9:00 am
-: **Speaker**{: .label .label-red } Speaker 1
+: **Speaker**{: .label .label-red } Lee Ellen Harmer - Data Science 4 Everyone
   : [Google Slides](#)
 : **Title**: Title 1
 : Description 1
@@ -12,7 +12,7 @@ title: Tuesday
 : ☕ Coffee Break ☕
 
 10:30 am
-: **Speaker**{: .label .label-red } Speaker 2
+: **Speaker**{: .label .label-red } Taryn Shelton - NC State
   : [Google Slides](#)
 : **Title**: Title 2
 : Description 2
