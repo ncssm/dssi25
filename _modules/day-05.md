@@ -3,14 +3,14 @@ title: Friday - Wrapping it up!
 ---
 
 9:00am
-: **Panel**{: .label .label-red } Service Learning in Data Science @ NCSSM, [DS4E](https://www.datascience4everyone.org/)
-  : [Slides](#)
-: Description
-
-10:00am
-: **Speaker**{: .label .label-red } AI in Data Science
+: **Panel**{: .label .label-red } AI in Data Science
   : [Slides](#)
 : A window into how data science is changing because of AI tools
+
+10:00am
+: **Speaker**{: .label .label-red } Service Learning in Data Science @ NCSSM
+  : [Slides](#)
+: A student panel of NCSSM students sharing how they've been able to use their data science in the field to help community organizations
 
 11:00am
 : **Where to go from here?**
