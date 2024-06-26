@@ -3,7 +3,7 @@ title: Thursday
 ---
 
 9:00 am
-: **Speaker**{: .label .label-red } Speaker 5 
+: **Speaker**{: .label .label-red } Doug Hague - UNC Charlotte
   : [Google Slides](#)
 : **Title:** Title
 : Description
@@ -12,7 +12,7 @@ title: Thursday
 : ☕ Coffee Break ☕
 
 10:30am
-: **Speaker**{: .label .label-red } Speaker 6 
+: **Speaker**{: .label .label-red } Henry Bowe - Hack the Hood
   : [Google Slides](#)
 : **Title:** Title
 : Description
