@@ -3,7 +3,7 @@ title: Wednesday
 ---
 
 9:00 am
-: **Speaker**{: .label .label-red } Speaker 3 
+: **Speaker**{: .label .label-red } Gemma Mojica & Emily Thrasher - NC State
   : [Slides](#)
 : **Title:** Title
 : Description
@@ -12,7 +12,7 @@ title: Wednesday
 : ☕ Coffee Break ☕
 
 10:30am
-: **Speaker**{: .label .label-red } Speaker 4
+: **Speaker**{: .label .label-red } Vrinda Desai - NCICS
   : [Slides](#)
 : **Title:** Title  
 : Description 
