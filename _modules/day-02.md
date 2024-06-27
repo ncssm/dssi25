@@ -3,7 +3,7 @@ title: Tuesday
 ---
 
 9:00 am
-: **Speaker**{: .label .label-red } Lee Ellen Harmer - Data Science 4 Everyone
+: **Speaker**{: .label .label-red } Lee Ellen Harmer - [DS4E](https://www.datascience4everyone.org/)
   : [Google Slides](#)
 : **Title**: Title 1
 : Description 1
