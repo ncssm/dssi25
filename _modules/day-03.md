@@ -49,6 +49,7 @@ title: Wednesday
 : **Lesson**{: .label .label-green} Linear Regression
 : We'll go into some of the details of how to perform multivariable linear regression in Python, and how to use gradient descent to find the optimal weights for your linear models.
 
+### Everyone!
 5:30pm
 : **🍻 Happy Hour Reception**
 : Come grab a drink and socialize this evening at Fonta Flora brewery, right across the street from The Fairfield Inn and Suites in downtown Morganton. We have the side room reserved for our event. There will be a food truck on site this evening. Fonta Flora is known for their beer, but also serve wine, and have non-alcoholic drink options available as well. Hope to see you there!
