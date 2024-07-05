@@ -3,10 +3,10 @@ title: Tuesday
 ---
 
 9:00 am
-: **Speaker**{: .label .label-red } Lee Ellen Harmer - [DS4E](https://www.datascience4everyone.org/)
+: **Speaker**{: .label .label-red } Zarek Drozda - [DS4E](https://www.datascience4everyone.org/)
   : [Google Slides](#)
-: **Title**: Title 1
-: Description 1
+: **Title**: The State of Data Science
+: ...
 
 10:15am
 : ☕ Coffee Break ☕
@@ -15,11 +15,12 @@ title: Tuesday
 : **Speaker**{: .label .label-red } Taryn Shelton - NC State
   : [Google Slides](#)
 : **Title**: Title 2
-: Description 2
+: ...
 
 12:00pm
  : 🥘 Lunch 🥘
 
+## Beginner Sessions
 1:00pm 
 : **Lesson**{: .label .label-green } Data Vizualization
   : [Google Slides](#)
