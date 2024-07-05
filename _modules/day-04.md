@@ -38,8 +38,9 @@ title: Thursday
 
 ### Advanced Track - Leviton Classroom
 1:00pm 
-: **Lesson**{: .label .label-green } Working with Environmental Data
+: **Lesson**{: .label .label-green } Introduction to Network Science
   : [Google Slides](#)
+: We will cover the basics of network theory and explore real-world examples. You will have the opportunity to work on a dataset to create, visualize, and analyze a network. 
 
 2:15pm
 : ☕ Coffee Break ☕
@@ -47,3 +48,4 @@ title: Thursday
 2:30pm
 : **Lesson**{: .label .label-green } Creating a Data Science lesson
   : [Google Slides](#)
+: Learn about a framework for creating data science lessons and courses that you can use to develop your own materials in the future.
