@@ -23,7 +23,7 @@ title: Tuesday
 12:00pm
  : 🥘 Lunch 🥘
 
-#### Beginner Sessions - The Barn
+#### Beginner Track - The Barn
 1:00pm 
 : **Lesson**{: .label .label-green } Data Vizualization
   : [Google Slides](#)
@@ -41,7 +41,7 @@ title: Tuesday
   : [CoDAP](https://codap.concord.org/), [Google Sheets](https://sheets.google.com), [Jupyter Notebooks](https://datahub.ncssm.edu)
 : Datasets: [Chronic Kidney Disease](https://raw.githubusercontent.com/ncssm/dssi23/main/assets/data/ckd.csv), [World Statistics](https://raw.githubusercontent.com/ncssm/dssi24-materials/main/data/world_data.csv)
 
-#### Advanced Sessions - Leviton Classroom
+#### Advanced Track - Leviton Classroom
 1:00pm 
 : **Technology**{: .label .label-yellow } Introduction to Pandas
   : [Google Slides](#)
