@@ -14,7 +14,7 @@ title: Wednesday
 10:30am
 : **Speaker**{: .label .label-red } Vrinda Desai - NCICS
   : [Slides](#)
-: **Title:** Title  
+: **Title:** We will go over available NOAA data and resources for use in the classroom. In addition, there is an interactive activity to access, analyze, and visualize NOAA data using Jupyter Notebooks.   
 : Description 
 
 12:00pm
