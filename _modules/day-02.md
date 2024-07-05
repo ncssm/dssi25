@@ -2,7 +2,7 @@
 title: Tuesday
 ---
 
-9:00 am
+9:00am
 : **Speaker**{: .label .label-red } Zarek Drozda - [DS4E](https://www.datascience4everyone.org/)
   : [Google Slides](#)
 : **Title**: The State of Data Science
@@ -11,11 +11,11 @@ title: Tuesday
 10:15am
 : ☕ Coffee Break ☕
 
-10:30 am
+10:30am
 : **Speaker**{: .label .label-red } Taryn Shelton - NC State
   : [Google Slides](#)
-: **Title**: Title 2
-: ...
+: **Title**: Real Teaching with Real Data
+: Learn how using a case study format combined with authentic, community-relevant data can drive student agency and better engage students across subject areas. We will learn some entry-level data-wrangling and cleaning skills to make raw data more accessible in the classroom.
 
 12:00pm
  : 🥘 Lunch 🥘
