@@ -14,7 +14,23 @@ There's quite a bit to do around town, especially during the summer. Below you'l
 ﻿
 ### Monday, July 8
 
-- To be updated
+- $10 climbing at Bigfoot Climbing Gym
+- Pinball tournament at Sidetracked Brewery
+- Run club at Fonta Flora Brewery
+
+### Tuesday, July 9
+ - Tapas Tuesday (Free Bar Bites) at The Olive (5 PM)
+ - Spanish Conversation at Little Guatemala
+
+### Wednesday, July 10
+ - Big Al's Brewery Trivia at 7 p.m.. Hillman Brewery. The topics are the solar system, crime, world currency, and a miscellaneous round. 7 p.m. - 8:30 p.m. 301 S. Sterling St., Morganton.
+ - $10 Climbing for Women at Bigfoot Climbing Gym
+
+### Thursday, July 12
+ - Big Al's Brewery Trivia at 7 p.m. Sidetracked Brewery. The topics are world records, current events, words and phrases, Disney, Disney picture round, and the Disney music round.
+ - Open Mic at Fonta Flora Brewery at 6 p.m.
+
+
 
 ## Dining
 
@@ -31,6 +47,12 @@ Open: Wednesday - Friday, 5pm - 9pm
 
 #### **[Food Matters Market And Cafe](https://www.foodmattersmarket.com/)**
 Open: Monday - Friday, 8am - 8pm
+
+#### **[Ono Poke Bowl](https://ono-pokebowl.com/)**
+Open: Monday, Tuesday, Thursday, Friday, 11am - 8pm
+
+#### **[Uptown Wing Bar](https://www.facebook.com/profile.php?id=61551244462025)**
+Open: every day at least 5PM - 11PM
 
 ### Close to the school
 
@@ -57,8 +79,6 @@ Open: Monday - Friday, 7am - 9pm
 #### **[Thornwell Books](http://www.thornwellbooks.com/)**
 Open: Monday - Friday, 8am - 5:30pm
 
-#### **[Divinity Donuts](https://www.divinitydonutsandbakery.com/)**
-Open: Thursday - Friday, 7am - 12pm
 
 ## Bars / Breweries
 
