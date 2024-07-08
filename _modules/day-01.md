@@ -12,4 +12,3 @@ title: Monday - Welcome and Data Collection
 
 3:00pm
 : **Lesson**{: .label .label-green }Data Wrangling
-  : [Google Slides](#)
