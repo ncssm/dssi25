@@ -8,7 +8,7 @@ permalink: recreation.html
 
 # What to do in Morganton
 
-There's quite a bit to do around town, especially during the summer. Below you'll find some recommendation of locaal things to do while you're visiting. In addition to what you'll find below, Morganton has plenty of chain stores and restaurants nearby, but if you can, it would be great to support our local businessnes in the community.
+There's quite a bit to do around town, especially during the summer. Below you'll find some recommendation of local things to do while you're visiting. In addition to what you'll find below, Morganton has plenty of chain stores and restaurants nearby, but if you can, it would be great to support our local businessnes in the community.
 
 ## Events in town this week
 ﻿Calendar of events from [The Paper](https://www.thepaper.media/calendar/)
