@@ -33,6 +33,7 @@ There's quite a bit to do around town, especially during the summer. Below you'l
 
 
 ## Dining
+Check all operating days and hours with Google maps or website, as they can change!
 
 ### Close to the hotel
 
