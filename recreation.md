@@ -20,7 +20,7 @@ There's quite a bit to do around town, especially during the summer. Below you'l
 ### Tuesday, July 9
  - Tapas Tuesday (Free Bar Bites) at The Olive (5 p.m.)
  - Spanish Conversation at Little Guatemala (6 p.m.)
-.
+
 ### Wednesday, July 10
  - Big Al's Brewery Trivia at 7 p.m.. Hillman Brewery. The topics are the solar system, crime, world currency, and a miscellaneous round. 7 p.m. - 8:30 p.m. 301 S. Sterling St., Morganton.
  - $10 Climbing for Women at Bigfoot Climbing Gym
