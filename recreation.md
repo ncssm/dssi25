@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Recreation
+title: Recreation and Food
 nav_order: 2
 nav_exclude: false
 permalink: recreation.html
