@@ -1,5 +1,5 @@
 ---
-name: Doug Hauge
+name: Doug Hague
 role: Speaker
 email: dhague@charlotte.edu
 photo: doug.jpg
