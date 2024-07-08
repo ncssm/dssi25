@@ -11,17 +11,16 @@ permalink: recreation.html
 There's quite a bit to do around town, especially during the summer. Below you'll find some recommendation of locaal things to do while you're visiting. In addition to what you'll find below, Morganton has plenty of chain stores and restaurants nearby, but if you can, it would be great to support our local businessnes in the community.
 
 ## Events in town this week
-﻿
+﻿Calendar of events from [The Paper](https://www.thepaper.media/calendar/)
 ### Monday, July 8
-
 - $10 climbing at Bigfoot Climbing Gym
-- Pinball tournament at Sidetracked Brewery
-- Run club at Fonta Flora Brewery
+- Pinball tournament at Sidetracked Brewery (6:30 p.m.)
+- Run club at Fonta Flora Brewery (6 p.m.)
 
 ### Tuesday, July 9
- - Tapas Tuesday (Free Bar Bites) at The Olive (5 PM)
- - Spanish Conversation at Little Guatemala
-
+ - Tapas Tuesday (Free Bar Bites) at The Olive (5 p.m.)
+ - Spanish Conversation at Little Guatemala (6 p.m.)
+.
 ### Wednesday, July 10
  - Big Al's Brewery Trivia at 7 p.m.. Hillman Brewery. The topics are the solar system, crime, world currency, and a miscellaneous round. 7 p.m. - 8:30 p.m. 301 S. Sterling St., Morganton.
  - $10 Climbing for Women at Bigfoot Climbing Gym
@@ -74,14 +73,18 @@ Open: Monday - Friday, 11am - midnight
 #### **[Grind Cafe](https://places.singleplatform.com/the-grind-cafe-3/menu?ref=google)**
 Open: Monday - Friday, 7am - 2pm
 
-#### **[Little Guatamala](https://www.littleguatemala.com/)**
+#### **[Little Guatemala](https://www.littleguatemala.com/)**
 Open: Monday - Friday, 7am - 9pm
 
 #### **[Thornwell Books](http://www.thornwellbooks.com/)**
 Open: Monday - Friday, 8am - 5:30pm
 
+#### **[Waterbean Coffee](https://www.waterbean.coffee/)**
+Open: Monday - Friday 6:30am - 7pm
+
 
 ## Bars / Breweries
+All on a 15 minute stretch extending southeast from the Fairfield Inn on Green and Sterling streets
 
 #### **[Fonta Flora Brewery](http://www.fontaflora.com/)**
 Open: Monday - Friday, 5pm - 9pm (10pm Wed - Fri)
@@ -95,11 +98,14 @@ Open: Monday - Friday, 3pm - 10pm (1pm on Friday)
 #### **[Magnolia Room](http://www.themagroom.com/)** *in the hotel*
 Open: Tuesday - Friday, 5pm - 10:30pm
 
+#### **[Toner's Irish Pub](https://www.facebook.com/p/Toners-Irish-Pub-61552509812002/)**
+Open: Tuesday - Friday 3pm - 10pm
+
 ## Outdoor Activities
 
 ### Hiking/Walking Trails
 
-#### **[Catawba River Greenway Trail](https://goo.gl/maps/xZUW7iemjLcWNe549)**
+#### **[Catawba River Greenway Trail](https://goo.gl/maps/xZUW7iemjLcWNe549) ([MapMyRun](https://www.mapmyrun.com/routes/view/6128499313))**
 Paved trail with an entrance just down the street from the hotel. Look for the feathers in the sidewalk until you get to the entrance on your right.
 
 #### **[Fonta Flora East Trail](https://www.alltrails.com/explore/trail/us/north-carolina/fonta-flora-trail)**
@@ -107,6 +113,9 @@ Fairly flat trail along Lake James.
 
 #### **[Shortoff Mountain trail via Wolfpit Road Trailhead](https://www.alltrails.com/explore/trail/us/north-carolina/shortoff-mountain)**
 Steep uphill in the first mile, then flat hiking along the rim of Linville Gorge.
+
+#### **[Oak Hill Community Park](https://www.foothillsconservancy.org/oakhillpark)**
+Park with hiking and mt. biking about 10 minutes from downtown. Hiking has views of the foothills.
 
 ### Sports
 
