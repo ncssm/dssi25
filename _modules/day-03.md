@@ -46,8 +46,8 @@ title: Wednesday
 : ☕ Coffee Break ☕
 
 2:30pm
-: **Lesson**{: .label .label-green} Linear Regression
-: We'll go into some of the details of how to perform multivariable linear regression in Python, and how to use gradient descent to find the optimal weights for your linear models.
+: **Technology**{: .label .label-yellow} MyST Markdown
+: Help you and your students write technical documents that are designed to highlight working with computational notebooks. This interdisciplinary tool can build beautiful websites and print articles with an eye towards data anlaysis and code generated figures.
 
 ### Everyone!
 5:30pm
