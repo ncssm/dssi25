@@ -44,7 +44,7 @@ title: Tuesday
 #### Advanced Track - Leviton Classroom
 1:00pm 
 : **Technology**{: .label .label-yellow } Introduction to Pandas
-  : [Google Slides](#)
+  : [Google Slides](https://docs.google.com/presentation/d/1aBZMs_hD2b4wdhIFmYMD95zywdcbmRMbZi1lyIc6UoI/edit?usp=sharing)
 : Pandas is a versatile data science library that can be used with the Python programming language. We'll go over common uses for pandas that include data wrangling and visualization.
 
 2:15pm
