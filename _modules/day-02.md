@@ -52,5 +52,5 @@ title: Tuesday
 
 2:30pm
 : **Lesson**{: .label .label-green } K-means clustering
-  : [Google Slides](#)
+  : [Google Slides](https://docs.google.com/presentation/d/1Nwn3opPABaeR1j9S6o6-S-bwNkQImr3TSW0YuKZl50c/edit?usp=sharing), [Handout](https://docs.google.com/document/d/1gIgnqAhXGIi_3zQ4see4itRsoETvYlD4okv8JZgw8UM/edit?usp=sharing)
 : A great algorithm to introduce students to unsupervised learning is the k-means algorithm. We'll go over the basics of how the algorithm works, and how to implement it using the python library, `sklearn`
