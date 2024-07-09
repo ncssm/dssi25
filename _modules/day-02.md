@@ -25,19 +25,19 @@ title: Tuesday
 
 #### Beginner Track - The Barn
 1:00pm 
-: **Lesson**{: .label .label-green } Data Vizualization
-  : [Google Slides](#)
+: **Lesson**{: .label .label-green } Data Visualization
+  : [Google Slides](https://docs.google.com/presentation/d/1k3vfQO6MT70oaTEuN7GPncInJf-czp7ug0ZPQlxUxtI/edit?usp=sharing)
 : What is it, and why is it important?
 
 2:00pm
-: **Hands-On**{: .label .label-purple } Vizualizing our data
+: **Hands-On**{: .label .label-purple } Visualizing our data
 : Using your tool of choice, investigate the data we collected yesterday. What is interesting about it? What do you notice? Are there any observations you might want to dig deeper into?
 
 2:15pm
 : ☕ Coffee Break ☕
 
 2:30pm
-: **Technology**{: .label .label-yellow }Exploring Tools for Data Vizualization
+: **Technology**{: .label .label-yellow }Exploring Tools for Data Visualization
   : [CoDAP](https://codap.concord.org/), [Google Sheets](https://sheets.google.com), [Jupyter Notebooks](https://datahub.ncssm.edu)
 : Datasets: [Chronic Kidney Disease](https://raw.githubusercontent.com/ncssm/dssi23/main/assets/data/ckd.csv), [World Statistics](https://raw.githubusercontent.com/ncssm/dssi24-materials/main/data/world_data.csv)
 
