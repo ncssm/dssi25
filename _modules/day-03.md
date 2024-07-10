@@ -34,11 +34,11 @@ title: Wednesday
 : ☕ Coffee Break ☕
 
 2:30pm
-: **Techology**{: .label .label-yellow} Using computers to simulate at scale
+: **Technology**{: .label .label-yellow} Using computers to simulate at scale
 
 ### Advanced Track - Leviton Classroom
 1:00pm 
-: **Techology**{: .label .label-yellow } Otter-grader
+: **Technology**{: .label .label-yellow } Otter-grader
   : [Google Slides](#)
 : The `otter` Python library will let you create data science lessons that include code cells that provide students real-time feedback on their work, as well as auto-graded homework assignments. We'll demonstrate how to author assignments using this tool.
   
