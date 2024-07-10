@@ -23,7 +23,7 @@ title: Wednesday
 ### Beginner Track - The Barn
 1:00pm 
 : **Lesson**{: .label .label-green }Simulation Based Inference
-  : [Google Slides](https://docs.google.com/presentation/d/1_33zEPAAF5fOJyMvutTMk4I958GjIWvHi4cEyfJQOYM/edit?usp=sharing)
+  : [Google Slides](https://docs.google.com/presentation/d/18AwMJb2qk4Q79_BFAstCgQgCVDPsoU-uyyqYCboVlxU/edit?usp=sharing)
 : Unlocking computational power
 
 1:45pm
