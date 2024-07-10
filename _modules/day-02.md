@@ -6,7 +6,11 @@ title: Tuesday
 : **Speaker**{: .label .label-red } Zarek Drozda - [DS4E](https://www.datascience4everyone.org/)
   : [Google Slides](https://docs.google.com/presentation/d/1NFo6GMjGhF7rW_5CnvEfUtXi7ZS0X_e7/edit?usp=sharing&ouid=117505507036636292897&rtpof=true&sd=true)
 : **Title**: The State of Data Science
-: A national overview of data science education efforts including curriculum and standards from across the country.
+: A national overview of data science education efforts including curriculum and standards from across the country. 
+: Additional resources
+: Data Advocacy Deck (several example slides for making the “pitch” to school leaders): (https://bit.ly/dataedudeck)
+: DS4E Classroom Resource Center: (https://www.datascience4everyone.org/resources)
+: Sign up to join the DS4E Slack Community: (https://join.slack.com/t/datascience4everyone/shared_invite/zt-197w7jo1y-IUZonY4E5SUbjs92iLIDhw)
 
 10:15am
 : ☕ Coffee Break ☕
