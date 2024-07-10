@@ -8,7 +8,7 @@ title: Tuesday
 : **Title**: The State of Data Science
 : A national overview of data science education efforts including curriculum and standards from across the country. 
 : Additional resources
-: [Data Advocacy Deck](https://bit.ly/dataedudeck) (several example slides for making the “pitch” to school leaders): 
+: [Data Advocacy Deck](https://bit.ly/dataedudeck) (several example slides for making the “pitch” to school leaders)
 : [DS4E Classroom Resource Center](https://www.datascience4everyone.org/resources)
 : [Sign up to join the DS4E Slack Community](https://join.slack.com/t/datascience4everyone/shared_invite/zt-197w7jo1y-IUZonY4E5SUbjs92iLIDhw)
 
