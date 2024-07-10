@@ -13,7 +13,7 @@ title: Wednesday
 
 10:30 am
 : **Speaker**{: .label .label-red } Gemma Mojica & Emily Thrasher - NC State
-  : [Slides](#)
+  : [Slides](https://drive.google.com/file/d/1fJR9_978HvwRAqFChtO88YAAmyeygC4V/view?usp=sharing)
 : **Title:** Infusing Data Science Practices in the Classroom
 : Participants will engage with a data visualization and a framework for making sense of data visualizations. Participants will also investigate NOAA weather station data using a plugin in CODAP.
 
