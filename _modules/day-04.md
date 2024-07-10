@@ -34,7 +34,7 @@ title: Thursday
 : ☕ Coffee Break ☕
 
 2:30pm
-: **Techology**{: .label .label-yellow } Use a computer to speed up your predications. We'll use google sheets and python to explore how to speed up classification.
+: **Technology**{: .label .label-yellow } Use a computer to speed up your predications. We'll use google sheets and python to explore how to speed up classification.
 
 ### Advanced Track - Leviton Classroom
 1:00pm 
