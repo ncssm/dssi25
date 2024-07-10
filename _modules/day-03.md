@@ -39,7 +39,7 @@ title: Wednesday
 ### Advanced Track - Leviton Classroom
 1:00pm 
 : **Technology**{: .label .label-yellow } Otter-grader
-  : [Google Slides](#)
+  : [Google Slides](https://docs.google.com/presentation/d/1wtLJvGhzkxcQ5NXK1oK7z7gdiNVgjLdlZ3wMs1RcVTw/edit#slide=id.p)
 : The `otter` Python library will let you create data science lessons that include code cells that provide students real-time feedback on their work, as well as auto-graded homework assignments. We'll demonstrate how to author assignments using this tool.
   
 2:15pm
