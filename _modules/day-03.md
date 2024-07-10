@@ -2,20 +2,20 @@
 title: Wednesday
 ---
 
-9:00 am
-: **Speaker**{: .label .label-red } Gemma Mojica & Emily Thrasher - NC State
-  : [Slides](#)
-: **Title:** Infusing Data Science Practices in the Classroom
-: Participants will engage with a data visualization and a framework for making sense of data visualizations. Participants will also investigate NOAA weather station data using a plugin in CODAP.
-
-10:15pm
-: ☕ Coffee Break ☕
-
-10:30am
+9:00am
 : **Speaker**{: .label .label-red } Vrinda Desai - NCICS
   : [Slides](https://docs.google.com/presentation/d/1a0phjBOMxmIycFEjrH0FW-3Rzt2L4KFFrRwWsFw8-YQ/edit?usp=sharing)
 : **Title:** Data in the Classroom
 : We will go over available NOAA data and resources for use in the classroom. In addition, there is an interactive activity to access, analyze, and visualize NOAA data using Jupyter Notebooks.
+
+10:15pm
+: ☕ Coffee Break ☕
+
+10:30 am
+: **Speaker**{: .label .label-red } Gemma Mojica & Emily Thrasher - NC State
+  : [Slides](#)
+: **Title:** Infusing Data Science Practices in the Classroom
+: Participants will engage with a data visualization and a framework for making sense of data visualizations. Participants will also investigate NOAA weather station data using a plugin in CODAP.
 
 12:00pm
  : 🥘 Lunch 🥘
