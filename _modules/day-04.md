@@ -4,9 +4,8 @@ title: Thursday
 
 9:00 am
 : **Speaker**{: .label .label-red } Doug Hague - UNC Charlotte
-  : [Google Slides](#)
-: **Title:** Title
-: Description
+  : [Google Drive](https://drive.google.com/drive/folders/1ilqG5R9VzzrUgV1mtmYDPoj3gADq9jVE?usp=drive_link)
+: **Title:** Storytelling with data
 
 10:15am
 : ☕ Coffee Break ☕
