@@ -12,9 +12,8 @@ title: Thursday
 
 10:30am
 : **Speaker**{: .label .label-red } Henry Bowe - Hack the Hood
-  : [Google Slides](#)
-: **Title:** Title
-: Description
+  : [About Hack the Hood](https://docs.google.com/presentation/d/1hWcFI3rlOPvq81mVgy6yjxsnSmalCsfMWGIEH31ek28/edit?usp=sharing), [Using Tech for Justice](https://docs.google.com/presentation/d/1cS2s2tDMcdidQJgmpcZ54nYVEFa6vCUqro597yPCx1A/edit?usp=sharing)
+: **Title:** Exploring Hack the Hood and Sociotechnical problems
 
 12:00pm
  : 🥘 Lunch 🥘
