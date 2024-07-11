@@ -22,11 +22,11 @@ title: Thursday
 1:00pm 
 : **Lesson**{: .label .label-green } Making predictions with data
   : [Google Slides](https://docs.google.com/presentation/d/1E8Pn-sI9J-s8uP0rYwllp4BYhLivPiJCn2O04sfS_Zs/edit?usp=sharing)
-  : The Galton Model (Parents and Children) [Data Set](https://raw.githubusercontent.com/ncssm/dssi24/main/assets/data/galton.csv)
+  : The Galton Model (Parents and Children) [Data Set](https://github.com/ncssm/dssi24/blob/main/assets/data/galton.csv)
 
 1:30pm
 : **Hands-On**{: .label .label-purple } The Midge Problem
-  : [Google Doc](https://docs.google.com/document/d/1amivLW9tjODtyQ2zZ_KEXdJ4rGmXKRnUyxE9JcB6eo8/edit?usp=sharing), [Data set](https://raw.githubusercontent.com/ncssm/dssi24/main/assets/data/midge.csv)
+  : [Google Doc](https://docs.google.com/document/d/1amivLW9tjODtyQ2zZ_KEXdJ4rGmXKRnUyxE9JcB6eo8/edit?usp=sharing), [Data set](https://github.com/ncssm/dssi24/blob/main/assets/data/midge.csv)
 : An introduction to classification
 
 2:15pm
