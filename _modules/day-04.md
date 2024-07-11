@@ -27,6 +27,7 @@ title: Thursday
 1:30pm
 : **Hands-On**{: .label .label-purple } The Midge Problem
   : [Google Doc](https://docs.google.com/document/d/1amivLW9tjODtyQ2zZ_KEXdJ4rGmXKRnUyxE9JcB6eo8/edit?usp=sharing)
+: Midge Teacher file [Google Doc](https://docs.google.com/document/d/1rrfW6SkhTuJAxoHcZB2RLmG20GK0KeFNRroiir0hdsI/edit?usp=sharing)
 : An introduction to classification
 
 2:15pm
