@@ -38,7 +38,7 @@ title: Thursday
 ### Advanced Track - Leviton Classroom
 1:00pm 
 : **Lesson**{: .label .label-green } Introduction to Network Science
-  : [Google Slides](#)
+  : [Google Slides](https://docs.google.com/presentation/d/1rDu2rLUjO_dwRNtyRsZxu2dk1K0zntY_FIqTwaFRvfA/edit#slide=id.g2e98385da1d_0_51)
 : We will cover the basics of network theory and explore real-world examples. You will have the opportunity to work on a dataset to create, visualize, and analyze a network. 
 
 2:15pm
