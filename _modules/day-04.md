@@ -47,5 +47,5 @@ title: Thursday
 
 2:30pm
 : **Lesson**{: .label .label-green } Creating a Data Science lesson
-  : [Google Slides](#)
+  : [Sample Activities](https://github.com/ncssm/ma4110-sp24)
 : Learn about a framework for creating data science lessons and courses that you can use to develop your own materials in the future.
