@@ -4,7 +4,7 @@ title: Friday - Wrapping it up!
 
 9:00am
 : **Panel**{: .label .label-red } AI in Data Science
-  : [Slides](#)
+  : [K-means example](https://claude.site/artifacts/9aff6fdc-53c6-47f0-9306-e45ee4ebe854)
 : A window into how data science is changing because of AI tools
 
 10:00am
