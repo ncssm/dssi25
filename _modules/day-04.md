@@ -21,7 +21,7 @@ title: Thursday
 ### Beginner Track - The Barn
 1:00pm 
 : **Lesson**{: .label .label-green } Making predictions with data
-  : [Google Slides](https://docs.google.com/presentation/d/1ht_0rOg9QcAmH0sZ0GUsk-aAUaA-Afp_Q8dvcD46yqk/edit?usp=sharing)
+  : [Google Slides](https://docs.google.com/presentation/d/1E8Pn-sI9J-s8uP0rYwllp4BYhLivPiJCn2O04sfS_Zs/edit?usp=sharing)
   : The Galton Model (Parents and Children) [Data Set](https://raw.githubusercontent.com/ncssm/dssi24/main/assets/data/galton.csv)
 
 1:30pm
