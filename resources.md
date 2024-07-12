@@ -9,6 +9,11 @@ permalink: resources.html
 # Resources from the week
 Over the course of the week, we'll add the resources that come up to this page.
 
+## Github Repositories
+[DSSI 24 Workshop Materials](https://github.com/ncssm/dssi24-materials)
+
+[Spring 2024 Course Notebooks](https://github.com/ncssm/ma4110-sp24)
+
 ## Datasets
 
 [Data is Plural](https://www.data-is-plural.com/)
@@ -18,8 +23,6 @@ Over the course of the week, we'll add the resources that come up to this page.
 [Gapminder](https://www.gapminder.org)
 
 [Project Gutenberg](https://www.gutenberg.org)
-
-[NCSSM Course Notebooks](https://github.com/ncssm/ma4110-sp24) Github of course materials to notebooks for Introduction to Data Science
 
 ## Articles / Blog Posts
 
