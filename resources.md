@@ -19,7 +19,7 @@ Over the course of the week, we'll add the resources that come up to this page.
 
 [Project Gutenberg](https://www.gutenberg.org)
 
-[NCSSM Course Notebooks](https://github.com/ncssm/ma4110-sp23) Github of course materials to notebooks for Introduction to Data Science
+[NCSSM Course Notebooks](https://github.com/ncssm/ma4110-sp24) Github of course materials to notebooks for Introduction to Data Science
 
 ## Articles / Blog Posts
 
