@@ -15,6 +15,7 @@ title: Friday - Wrapping it up!
 11:00am
 : **Where to go from here?**
 : We hope that this is just the start of your data science education journey. As we close out the week, make sure you're set up with great resources and a plan for continued growth.
+: [Backup Datahub](https://docs.google.com/document/d/1Au1iC5bEEZ_88CvK8oBTMJFRPGeJE-oil_cjjbI8wwc/edit?usp=sharing)
 
 Survey
 : **Feedback**
