@@ -6,7 +6,7 @@ nav_exclude: false
 permalink: index.html
 ---
 
-# NCSSM's 2024 Data Science Summer Institute
+# NCSSM's 2025 Data Science Summer Institute
 
 {: .mb-2 }
 NCSSM-Morganton, June 23-26, 2025
