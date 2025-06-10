@@ -11,30 +11,12 @@ permalink: recreation.html
 There's quite a bit to do around town, especially during the summer. Below you'll find some recommendation of local things to do while you're visiting. In addition to what you'll find below, Morganton has plenty of chain stores and restaurants nearby, but if you can, it would be great to support our local businessnes in the community.
 
 ## Events in town this week
-﻿Calendar of events from [The Paper](https://www.thepaper.media/calendar/)
-### Monday, July 8
-- $10 climbing at Bigfoot Climbing Gym
-- Pinball tournament at Sidetracked Brewery (6:30 p.m.)
-- Run club at Fonta Flora Brewery (6 p.m.)
-
-### Tuesday, July 9
- - Tapas Tuesday (Free Bar Bites) at The Olive (5 p.m.)
- - Spanish Conversation at Little Guatemala (6 p.m.)
-
-### Wednesday, July 10
- - Big Al's Brewery Trivia at 7 p.m.. Hillman Brewery. The topics are the solar system, crime, world currency, and a miscellaneous round. 7 p.m. - 8:30 p.m. 301 S. Sterling St., Morganton.
- - $10 Climbing for Women at Bigfoot Climbing Gym
-
-### Thursday, July 12
- - Big Al's Brewery Trivia at 7 p.m. Sidetracked Brewery. The topics are world records, current events, words and phrases, Disney, Disney picture round, and the Disney music round.
- - Open Mic at Fonta Flora Brewery at 6 p.m.
-
-
+﻿Calendar of events can be found at  [The Paper](https://www.thepaper.media/calendar/)
 
 ## Dining
 Check all operating days and hours with Google maps or website, as they can change!
 
-### Close to the hotel
+### Downtown Morganton
 
 #### **Moondog Pizza**
 Open: Tuesday - Friday, 11am - 10pm
@@ -53,6 +35,9 @@ Open: Monday, Tuesday, Thursday, Friday, 11am - 8pm
 
 #### **[Uptown Wing Bar](https://www.facebook.com/profile.php?id=61551244462025)**
 Open: every day at least 5PM - 11PM
+
+#### **[Reptile Cantina](https://linktr.ee/thereptilecantina)**
+Open: Tuesday - Thursday, 5pm - 11pm
 
 ### Close to the school
 
@@ -84,7 +69,6 @@ Open: Monday - Friday 6:30am - 7pm
 
 
 ## Bars / Breweries
-All on a 15 minute stretch extending southeast from the Fairfield Inn on Green and Sterling streets
 
 #### **[Fonta Flora Brewery](http://www.fontaflora.com/)**
 Open: Monday - Friday, 5pm - 9pm (10pm Wed - Fri)
