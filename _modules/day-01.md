@@ -8,8 +8,9 @@ title: Monday - Welcome and Data Collection
   : [Data Portraits](https://giorgialupi.com/data-portraits-at-ted2017)
 
 2:00pm
-: **Hands-On**{: .label .label-purple }Data Collection Activity
-  : [Template](https://ncssm.github.io/dssi23/assets/pdf/paperhelicopter_worksheet.pdf), [Google Sheet](https://docs.google.com/spreadsheets/d/1xYyZatMwGrBqMa1v9WlUcOmn4t5qdVrB6RPniYb-vx0/edit?usp=sharing)
+: **Workshop Session**{: .label .label-purple }Getting InSTEP with Data Science: Our Kickoff Data Collection and Processing Experience
+: We will engage in two data collection activities, process the data, and import into CODAP for some initial exploratory data analysis.
+  : [Google Sheet](#)
 
 4:00pm
 : Dismiss for the day
