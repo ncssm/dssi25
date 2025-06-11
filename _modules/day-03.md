@@ -18,7 +18,7 @@ title: Wednesday
 12:00pm
  : 🥘 Lunch 🥘
 
-### Novice Track - The Barn
+#### Novice Track - The Barn
 1:00pm - 4:00pm
 : **Workshop Sessions**{: .label .label-green }Gemma & Bruce
   : [Google Slides](#)
@@ -27,7 +27,7 @@ title: Wednesday
 : ☕ Coffee Break ☕
 
 
-### Experienced Track - TBD Classroom
+#### Experienced Track - TBD Classroom
 1:00pm - 4:00pm
 : **Workshop Sessions**{: .label .label-green }Taylor Gibson
   : [Google Slides](#)
