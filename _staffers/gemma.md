@@ -1,6 +1,6 @@
 ---
 name: Gemma Mojica
-role: Speaker
+role: Instructor
 email: gmmojica@ncsu.edu
 photo: gemma.jpg
 ---
