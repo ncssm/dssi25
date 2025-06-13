@@ -22,6 +22,8 @@ title: Wednesday
 1:00pm - 4:00pm
 : **Workshop Sessions**{: .label .label-green }Gemma & Bruce
   : [Google Slides](#)
+:  **Exploring Data Visualization and Association with CODAP**
+: We will explore data visualizations that support developing data literacy. We will also engage in a data investigation focused on association using CODAP. You will have the opportunity to reflect on different phases of a data investigation process.
 
 2:15pm
 : ☕ Coffee Break ☕
