@@ -12,8 +12,9 @@ title: Thursday
 : ☕ Coffee Break ☕
 
 10:30am
-: **Workshop Session**{: .label .label-red } NC State - InSTEP
-: Commitment Statements and Planning Time
+: **Workshop Session**{: .label .label-red } NC State - InSTEP Team
+: **Title**: Implementation Planning Time
+: This session will provide support and time to plan for how to bring data science into your classroom next school year.
 
 12:00pm
  : 🥘 Lunch 🥘
