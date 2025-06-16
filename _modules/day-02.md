@@ -21,7 +21,7 @@ title: Tuesday
 : **Speaker**{: .label .label-red } Taryn Shelton - NC State
   : [Google Slides](#)
 : **Title**: Real Teaching with Real Data
-: Learn how using a case study format combined with authentic, community-relevant data can drive student agency and better engage students across subject areas. We will learn some entry-level data-wrangling and cleaning skills to make raw data more accessible in the classroom.
+: Bring meaningful, real-world data into the classroom using public health datasets on topics like social media trends and environmental health. Participants will explore hands-on, student-centered lessons that build student agency, critical thinking, and data analysis skills while deepening understanding of math, science, and social studies concepts.
 
 12:00pm
  : 🥘 Lunch 🥘
@@ -30,14 +30,24 @@ title: Tuesday
 1:00pm - 4:00pm
 : **Workshop Sessions**{: .label .label-green } Emily & Michelle
   : [Google Slides](#)
+: **Title**: Making Sense of Data Visualizations and Exploring Restaurants with CODAP
+: This session with introduce the Making Sense of Data Visualization framework and support teachers in their ability to use CODAP in their classrooms. 
 
 2:15pm
 : ☕ Coffee Break ☕
 
-#### Experienced Track - TBD Classroom
-1:00pm - 4:00pm
+#### Experienced Track - Jeter Hall
+1:00pm - 2:15pm
 : **Workshop Sessions**{: .label .label-green } Taylor Gibson
   : [Google Slides](#)
+: **Title**: Introduction to Categorical Prediction Methods
+: This session will provide an introduction to making categorical predictions, which is a topic often overlooked in traditional statistics coursework. We'll look at how to decide if bank notes are counterfeit, if a cell patient is likely to have chronic kidney disease, or if a midge is a carrier of deadly virus.
 
 2:15pm
 : ☕ Coffee Break ☕
+
+2:30pm - 4:00pm
+: **Workshop Sessions**{: .label .label-green } Jon Davis
+  : [Google Slides](#)
+: **Title**: Teachable Machines
+: Learn how to use Google's Teaching Machine interface to streamline your students abilities to make categorical predictions without having to neccesarily understanding a full technology stack to code it themselves.
