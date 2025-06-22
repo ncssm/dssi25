@@ -8,8 +8,11 @@ title: Monday - Welcome and Data Collection
 
 2:00pm
 : **Session**{: .label .label-purple }Getting InSTEP with Data Science
-  : [Google Sheet](#)
+  : [Slides (after)](#), 
 : We will engage in two data collection activities, process the data, and import into CODAP for some initial exploratory data analysis.
+: Data Collection on Google Maps: (https://bit.ly/DSSIOurMap)
+: Google Sheet for Data Processing: (https://bit.ly/DSSImapdata)
+: InSTEP Online Professional Learning: (https://Instepwithdata.org)
   
 
 4:00pm
